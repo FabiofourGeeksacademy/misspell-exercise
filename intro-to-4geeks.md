@@ -20,7 +20,7 @@ Vamos a cambiar la forma en que te has acostumbrado a aprender, la forma en que 
 
 ### Estamos aquí para derribar 3 💻 Paredes respecto al Código
 
-Durante los años que han pasado henos identificado razones específicas por las cuales los estudiantes se frustran y dejan de intentar ser desarroyadores o no completan el curso y no consiguen trabajo.
+Durante los años que han pasado henos identificado razones específicas por las cuales los estudiantes se frustran y dejan de intentar ser desarrolladores o no completan el curso y no consiguen trabajo.
 
 
 #### Pared #1: Confianza 🥺 (Síndrome del impostor)
@@ -55,21 +55,21 @@ Sabemos como enseñarte: lo hemos hecho una y otra vez, sin embargo, te enseñar
 
 3. **Sé humilde:** Hay muchos estudiantes que han completado el curso con éxito siguiendo el método. Algunos trabajan en Google, Amazon u otra gran empresa a nivel mundial. Por favor sé humilde e intenta seguir el curso como es. Puedes hablar con nosotros si tienes alguna idea sobre alguna mejora, también tenemos la humildad para ser abiertos e intentar algo nuevo que podría funcionar.
 
-#### Pared 3: Inactibidad 😴 
+#### Pared 3: Inactividad 😴 
 
 Este es un campo de entrenamiento, no importa si lo haces full-time o part-time, debes tener una mentalidad de entrenamiento y trabajar cada día como si fuera el último. El cerebro humano absorbe 80% más cuando se siente desafiado y asustado, si descansas un día el cerebro se relaja y [está demostrado](https://www.youtube.com/watch?v=h5PLO4XAXhs) que usualmente se olvida del 60% de la información recientemente adquirida a menos que la uses, de forma repetida y constante durante un periodo de 7 días (por lo menos).
 
-Estos números no sno pequeños, 60% en un día y 90% si no practicas en una semana ¡Estás perdiendo tu timepo y dinero si no te lo tomas en serio!
+Estos números no son pequeños, 60% en un día y 90% si no practicas en una semana ¡Estás perdiendo tu tiempo y dinero si no te lo tomas en serio!
 
 ##### 📝 Receta para evitar la inactividad
 
-1. **Habla con tu pareja, amigo y familia:** Necesitas un descanso de prácticamente todo. Sabemos que la vida ya es lo suficientemente complicada para además añadirle más resposabilidades, pero este es sólo un breve periodo de tu tiempo. La recompensa es eterna ¡Todos deben alinearse! Intenta matenerte abierto, tener un escritorio para trabajar sin distracciones, etc. Tu hogar debe estar sincronizado con este momento de tu vida.
+1. **Habla con tu pareja, amigo y familia:** Necesitas un descanso de prácticamente todo. Sabemos que la vida ya es lo suficientemente complicada para además añadirle más resposabilidades, pero este es sólo un breve periodo de tu tiempo. La recompensa es eterna ¡Todos deben alinearse! Intenta mantenerte abierto, tener un escritorio para trabajar sin distracciones, etc. Tu hogar debe estar sincronizado con este momento de tu vida.
 
 2. **Habla con tu jefe:** Puede que necesites un par de horas extras, tiempo durante el fin de semana, etc. Sé inteligente o puede que tu jefe te sabotee.
 
 3. **No faltes a clases:** Que faltes a clases es nuestra mayor preocupación, estamos muy preocupados de la asistencia porque ha demostrado ser el disuasivo #1 para tu motivación, faltar a dos clases seguidas genera la tormenta perfecta. Necesitarás mentoría uno a uno y doblar las horas de práctica esa semana para evitar retrasarte.
 
-4. **Involúcrate:** Asistir a clases no es suficiente, los seres humanos son emocionales, integran mejor la información cuando estás comprometido, emocional, asistiendo a eventos y estudiando en grupos, hablando púlbicamente al respecto, etc.
+4. **Involúcrate:** Asistir a clases no es suficiente, los seres humanos son emocionales, integran mejor la información cuando estás comprometido, emocional, asistiendo a eventos y estudiando en grupos, hablando publicamente al respecto, etc.
 
 ## ¿Qué sigue?
 
