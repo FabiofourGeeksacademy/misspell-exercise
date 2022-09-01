@@ -4,7 +4,7 @@
 
 ## Lo que ya sabes
 
-Estas aquí para aprender a desarrollar tus habilidades para programar hasta un nivel en el que puedas: 1️⃣ Conseguir trabajo, 2️⃣ Crear tu propia empresa y/o 3️⃣ Adaptarte mejor al nuevo mumdo. 
+Estas aquí para aprender a desarrollar tus habilidades para programar hasta un nivel en el que puedas: 1️⃣ Conseguir trabajo, 2️⃣ Crear tu propia empresa y/o 3️⃣ Adaptarte mejor al nuevo mundo. 
 
 ## Lo que ya sabías
 
